@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 ☯ *Nature does not hurry, yet everything is accomplished* **Lao Tzu**
+#### 🌱 ☯ *Nature does not hurry, yet everything is accomplished* **Lao Tzu**
 
 <!--
 **Lucaterre/Lucaterre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
