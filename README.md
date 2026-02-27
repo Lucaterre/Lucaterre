@@ -25,7 +25,7 @@ and information sovereignty.
 └───────────────────────────────────────────────────────────────────────────────────────┘
 ```
 ```bash
-> lucas@github:~$ tail -f career.log
+> Lucaterre@github:~$ tail -f career.log
 [INFO 2022-12]  Software & AI engineer @École nationale des chartes - PSL | Digital projects team
 [INFO 2020-10]  R&D engineer @INRIA | ALMAnaCH team
 ```
