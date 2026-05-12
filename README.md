@@ -8,24 +8,3 @@ APIs, web applications, NLP & computer vision pipelines, AI-assisted exploration
 with a constant focus on reliability, reproducibility,
 and information sovereignty.
 ```
-
-```bash
-> Lucaterre@github:~$ skills --focus
-┌───────────────────────────────────────────────────────────────────────────────────────┐
-│ FOCUS & CORE STACK                                                                    │
-├───────────────────────────────────────────────────────────────────────────────────────┤
-│ Web Dev          ███████████████░░░░ 85% │ Vue.js3 / FastAPI / Flask / HTML,CSS,JS/TS │
-│ Databases        ███████████████░░░░ 85% │ PostgreSQL / SQLite / Vector DB            │
-│ Computer Vision  █████████████░░░░░░ 75% │ ViT / DINO / YOLO / VLM                    │
-│ NLP              ████████████░░░░░░░ 70% │ sentence-transformers / spaCy              │
-│ Data / ETL       ███████████████░░░░ 85% │ Pandas / Dataiku / Matplotlib, D3.js       │
-│ Backend          ███████████████░░░░ 85% │ Python / SQLAlchemy                        │
-│ AI/ML Frameworks █████████████░░░░░░ 75% │ PyTorch / Keras / HuggingFace              │
-│ DevOps           ████████████░░░░░░░ 70% │ Docker / CI-CD / Linux                     │
-└───────────────────────────────────────────────────────────────────────────────────────┘
-```
-```bash
-> Lucaterre@github:~$ tail -f career.log
-[INFO 2022-12]  Software engineer (AI & Web) @École nationale des chartes - PSL | Digital projects team
-[INFO 2020-10]  R&D engineer @INRIA | ALMAnaCH team
-```
